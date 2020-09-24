@@ -6,7 +6,7 @@ public class SecondLargestElement {
 		// To find max and min value from an array 
 		
 				int[] arr= {4,3,6,1,8,9,22,7,11,13,17,20};
-				int temp;
+				int temp=0;
 				
 				for(int i=1;i<arr.length;i++) {
 					
